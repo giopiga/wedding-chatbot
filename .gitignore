@@ -1,0 +1,8 @@
+*key.txt
+.venv/
+*pycache__
+*secrets.toml
+.streamlit/
+*__pycache__/
+*.venv
+*tmp/
