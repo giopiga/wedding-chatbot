@@ -2,7 +2,6 @@
 .venv/
 *pycache__
 *secrets.toml
-.streamlit/
 *__pycache__/
 *.venv
 *tmp/
